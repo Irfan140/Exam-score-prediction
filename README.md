@@ -43,3 +43,5 @@ This project predicts the **Math Score** of a student based on various inputs us
 3. Run the Flask app:
    ```bash
    python app.py
+
+👉 **Try it live here**: [Math Score Predictor](https://exam-score-prediction-w267.onrender.com/predictdata)
